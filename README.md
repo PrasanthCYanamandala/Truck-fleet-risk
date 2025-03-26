@@ -1,6 +1,6 @@
 # Truck Fleet Risk Analytics and Driver Safety Solutions
 
-This repository contains the group project for BUAN-MIS 6346, focused on leveraging data analytics to identify and mitigate driver-related risks in commercial trucking operations.
+This repository contains the project for **Big Data** course, focused on leveraging data analytics to identify and mitigate driver-related risks in commercial trucking operations.
 
 ## 🚛 Project Overview
 
@@ -60,12 +60,6 @@ This repository contains the group project for BUAN-MIS 6346, focused on leverag
 - Build predictive ML models for proactive driver risk identification
 - Expand the analysis to a national level
 - Implement additional training for high-risk drivers
-
-## 👥 Team
-
-Group 1:  
-Sara Crowe • Shreevershith Kollabettu • Annastacia Marchand  
-Angela Reynolds • Prasanth Chowdary Yanamandala
 
 ---
 
